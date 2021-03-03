@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "defaults",
+  "info": {
+    "name": "default",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "date": {
+      "type": "date",
+      "required": true
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

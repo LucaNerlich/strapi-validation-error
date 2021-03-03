@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blog_bases",
+  "info": {
+    "name": "base",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "date": {
+      "type": "date",
+      "required": true
+    }
+  }
+}
